@@ -1,6 +1,23 @@
-# Topaz API Skill for RunAPI
+<p align="center">
+  <a href="https://github.com/runapi-ai/topaz">
+    <h3 align="center">Topaz API Skill for RunAPI</h3>
+  </a>
+</p>
+
+<p align="center">
+  Install this agent skill, inspect Topaz fields, then run jobs through the RunAPI CLI.
+</p>
+
+<p align="center">
+  <a href="https://runapi.ai/models/topaz.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/topaz"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/topaz-sdk"><strong>SDK</strong></a>
+</p>
+
+<div align="center">
 
 [![skills.sh](https://skills.sh/b/runapi-ai/topaz)](https://skills.sh/runapi-ai/topaz)
+
+</div>
+<br/>
 
 Upscale images and video with Topaz AI-powered enhancement. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Topaz through RunAPI.
 
