@@ -1,5 +1,7 @@
 # Topaz API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/topaz)](https://skills.sh/runapi-ai/topaz)
+
 Upscale images and video with Topaz AI-powered enhancement. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Topaz through RunAPI.
 
 The canonical agent file is `skills/topaz/SKILL.md`.

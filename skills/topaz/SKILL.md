@@ -4,6 +4,17 @@ description: Topaz API skill for RunAPI. Use when the user asks for topaz api SD
 documentation: https://runapi.ai/models/topaz
 provider_page: https://runapi.ai/providers/topaz
 catalog: https://runapi.ai/models
+metadata:
+  openclaw:
+    homepage: https://runapi.ai/models/topaz
+    primaryEnv: RUNAPI_API_KEY
+    requires:
+      env:
+      - RUNAPI_API_KEY
+    envVars:
+    - name: RUNAPI_API_KEY
+      required: true
+      description: RunAPI API key from https://runapi.ai/api_keys.
 ---
 
 # Topaz API Skill for RunAPI
