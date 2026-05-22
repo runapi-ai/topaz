@@ -16,9 +16,6 @@
 
 [![skills.sh](https://www.skills.sh/b/runapi-ai/topaz)](https://www.skills.sh/runapi-ai/topaz/topaz)
 [![ClawHub](https://img.shields.io/badge/ClawHub-runapi--topaz-111827)](https://clawhub.ai/runapi-ai/runapi-topaz)
-[![Model Reference](https://img.shields.io/badge/Model%20Reference-runapi.ai-0f766e)](https://runapi.ai/models/topaz)
-[![RunAPI CLI](https://img.shields.io/badge/RunAPI-CLI-111827)](https://github.com/runapi-ai/cli)
-[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-skills.sh-2563eb)](https://www.skills.sh/runapi-ai)
 [![License](https://img.shields.io/github/license/runapi-ai/topaz)](https://github.com/runapi-ai/topaz/blob/main/LICENSE)
 
 </div>
